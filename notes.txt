@@ -1,0 +1,116 @@
+                                WEB DESIGN VS DEVELOPMENT
+
+        web designers create the overall lool and feel of a website
+        web developers implement the desing using HTML, CSS and JavaScript code
+
+                              WHY TAKE DESIGN SERIOUSLY
+  
+    GOOD DESIGN                                           BAD DESIGN
+
+1. creates an immediate and                  1. Makes users believe the brand doesnt
+  lasting good impression of the             really care about their product or services;
+  brand or product;
+
+2. Makes the user trust the brand            2. Makes the user insecurte about trusting
+  right away;                                the brand;
+
+3. Increases the user's perceived            3.Makes the brand or product seem "cheap";
+  value of the brand or product;
+
+4. Gives users exactly what they were       4.Leaves users confused, and makes it hard
+  looking for when coming to the site,       for them to reach their goal.
+  e.g. purchasing a product or finding
+  information.
+
+                           ANYONE CAN LEARN GOOD DESIGN
+    
+
+    good website is not subjective or creative ---- everyone can learn basics by following
+                                                    a framework/system
+
+  
+                          OVERVIEW OF WEBSITE PERSONALITIES
+
+1. SERIOUS/ELEGANT- for luxury and elegance, based on thin serif typefaces, golden
+  or pastel colors, and big high-quality images
+
+2. MINIMALIST/SIMPLE- Focuses on the essential content, using small or medium-sized
+ sans-seriff black text, lines, and few images and icons.
+
+3. PLAIN/NEUTRAL-Desing that gets out of the way by using neutral and small typefaces,
+  and a very structerd layout. Common in big corporations
+
+4. BOLD/CONFIDENT: Makes an impacy, by featuring big and bold typography, paired with
+ confident use of big and bright colored blocks
+
+5. CALM/PEACEFUL: For products and services that care, transmitted by calming pastel
+colors, soft serif headings, and matching images/illustrations
+
+6. STARTUP/UPBEAT- Widely used in startups, featuring medium-sized san-serif typefaces,
+light-grey text and backgrounds, and rounded elements
+
+7.PlAYFUL/FUN- Colorful and round designs, fueled by creative elemnts like hand-drawn
+icons or illustrations, animations, and fun language.
+
+
+                         9 WEBSITE INGRIEDIENTS
+
+
+           TYPOGRAPHY
+
+CONCEPTS
+
+ TYPOGRAPHY is the art and technique of arranging type to make written language
+ legible, readable, and appealing when displayed.
+
+SERIF VS SANS-SERIF
+  
+  serif typeface- details at the end of the letters
+    -creates a traditional/classic look and feel
+    -Conveys trustworthiness
+    -Good for long text
+
+  sans-serif typeface- No details and just squared off ends
+    -Modern look and feel
+    -Clean and simple
+    -Easier to choose for beginner designer!
+
+RULES
+
+1. Use only good and popular typefaces and play it safe
+    ex for SANS-SERIF(Inter, Open Sans, Roboto, Montserrat, Works Sans, Lato)
+    ex for SERIF(Merriweather, aleo, Playfair Display, Cormorant, Cardo, Lora)
+
+2. Its okay to use just one typeface per page! If you want more, Limit to 2 typefaces.
+
+3.Choose the right typeface according to your website personality:
+    -Choose the right personality for your website
+    -Decide betweeen a serif and sans-serif typeface
+    -Experiment with all the "good" typefaces( and other type faces from Google Fonts!)
+      to see which ones fits your website's message(this will come with experience)
+    -You can keep trying different typefaces as you design and build the page
+
+        GOOD FONT SIZES AND WEIGHTS
+4. When choosing font-sizes, limit choices!  Use a "type scale" tool or other pre-defined range
+
+5. Use a font sixe between 16px and 32px for "normal" text
+
+6.For long text(like a blog post), try a size of 20px or even bigger
+
+7.For headlines, you can go really big (50px+) and bold (600+), depending on personality
+
+8.For any text, don't use a font weight under 400 (regular)
+
+    CREATE A GOOD READING EXPERIENCE
+9. Use less than  75 characters per line
+
+10. For normal-sized text, use a line height betwen 1.5 and 2. For big text go below 1.5
+    -The smaller and longer the text, the larger the line height needs to be!
+
+11. Decrease letter spacing in headlines, if it looks unatural(this will come with experience)
+
+12.Experiment with all caps for short titles. make them small and bold and increase letter-spacing
+
+13. usually, don't justify text.
+
+14. Don't center long text blocks. Small blocks are fine
